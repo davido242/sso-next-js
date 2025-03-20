@@ -2,6 +2,10 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 
 ## Getting Started
 
+## Add this to a .env file on the root of the project first, get the credentials from google console
+
+NEXT_PUBLIC_GOOGLE_CLIENT_ID
+
 First, run the development server:
 
 ```bash
